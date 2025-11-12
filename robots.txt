@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://magnificent-kangaroo-453392.netlify.app/sitemap.xml
